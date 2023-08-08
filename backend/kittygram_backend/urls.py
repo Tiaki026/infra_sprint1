@@ -8,6 +8,8 @@ from django.conf.urls.static import static
 
 from cats.views import AchievementViewSet, CatViewSet
 
+def trigger_error(request):
+  division_by_zero = 1 / 0
 
 router = routers.DefaultRouter()
 router.register(r'cats', CatViewSet)
@@ -20,5 +22,4 @@ urlpatterns = [
     path('api/', include('djoser.urls.authtoken')),  # Работа с токенами
 ]
 
-if settings.DEBUG:
-    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

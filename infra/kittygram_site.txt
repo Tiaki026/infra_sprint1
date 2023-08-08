@@ -1,0 +1,5 @@
+IP: 158.160.27.37;
+name_taski: https://tiaki26.hopto.org/;
+name_kittygram: https://tiakikytty.hopto.org/;
+login: admin;
+password: Admin123; 
