@@ -3,5 +3,6 @@
 Kittygram — социальная сеть для обмена фотографиями любимых питомцев. Это полностью рабочий проект, который состоит из бэкенд-приложения на Django и фронтенд-приложения на React.
 В нем Вы можете разместить фото любимого котика и посмотретить фото котиков других пользователей. Регистрация обязательна.
 ### Стек технологий
-- ![kisspng-python-javascript-programming-language-c-5b1a48cc5c09e9 637391951528449228377](https://github.com/Tiaki026/infra_sprint1/assets/123443356/6ca9adc7-64d3-4ae6-933d-b4e4c9b83269) Python 3.10
+- Python 3.10
+![kisspng-python-javascript-programming-language-c-5b1a48cc5c09e9 637391951528449228377](https://github.com/Tiaki026/infra_sprint1/assets/123443356/6ca9adc7-64d3-4ae6-933d-b4e4c9b83269)
 
