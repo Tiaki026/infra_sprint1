@@ -42,7 +42,7 @@ Ctrl+S	# Сохранить изменения
 Ctrl+X	# Выйти
 ```
 
-## Стек технологий
+## 📺Стек технологий
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   Python: Язык программирования
