@@ -43,14 +43,22 @@ Ctrl+X	# Выйти
 ```
 
 ## Стек технологий
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python: Язык программирования
-- 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) Django: Фреймворк для создания веб-приложений
-- ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) Django Rest Framework: Расширение для Django, предоставляющее функциональность REST API
-- 	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Ubuntu: Операционная система
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript: Язык программирования для создания динамических веб-страниц
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React: JavaScript-библиотека для создания пользовательских интерфейсов
-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) Nginx: Веб-сервер и обратный прокси-сервер
-- ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) Gunicorn: WSGI-сервер для запуска веб-приложений на Python
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  Python: Язык программирования
+- 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  Django: Фреймворк для создания веб-приложений
+- ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  Django Rest Framework: Расширение для Django, предоставляющее функциональность REST API
+- 	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  Ubuntu: Операционная система
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  JavaScript: Язык программирования для создания динамических веб-страниц
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  React: JavaScript-библиотека для создания пользовательских интерфейсов
+- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  Nginx: Веб-сервер и обратный прокси-сервер
+- ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+  Gunicorn: WSGI-сервер для запуска веб-приложений на Python
 ## Как воспользоваться проектром
 ### Клонирование проекта с GitHub на сервер
 ```
